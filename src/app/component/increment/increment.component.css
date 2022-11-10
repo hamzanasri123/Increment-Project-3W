@@ -1,5 +1,9 @@
-/* .container{
+
+
+.container{
     width: 1200px;
+    background: rgb(202, 200, 200);
+    margin: 0 auto !important;
 }
 
 .row{
@@ -29,16 +33,15 @@
 }
 
 .btn-red{
-    background-color: brown;
-    color: white;
+    background-color: rgb(175, 38, 38);
+    color: rgb(255, 255, 255);
 }
 .btn-green{
-    background-color: green;
+    background-color: rgb(2, 138, 2);
     color: white;
 }
 
 .btn-org{
-    background-color: yellow;
-    color: white;
+    background-color: rgb(226, 226, 0);
+    color: rgb(255, 255, 255);;
 }
- */
